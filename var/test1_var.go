@@ -42,4 +42,10 @@ func main() {
 	var kk, ll = 10, "aced"
 	fmt.Println("kk= ", kk, ", ll= ", ll)
 
+	var (
+		nn = 123
+		cc = "string"
+	)
+	fmt.Println("nn= ", nn, ", cc= ", cc)
+
 }
